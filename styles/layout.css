@@ -27,7 +27,6 @@ main #back {
     margin-bottom: 1.5rem;
     background: none;
     border: none;
-    cursor: pointer;
     font: inherit;
     color: inherit;
 }
