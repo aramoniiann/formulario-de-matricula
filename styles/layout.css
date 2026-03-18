@@ -16,8 +16,11 @@ main .main-container {
     margin-left: auto;
 }
 
+img {
+    vertical-align: middle;
+}
 
-main .back {
+main #back {
     display: flex;
     align-items: center;
     gap: .5rem;
